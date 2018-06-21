@@ -1,0 +1,11 @@
+YearPredictionMSD.txt - full dataset retrieved from https://archive.ics.uci.edu/ml/datasets/yearpredictionmsd
+
+YearPredictionMSD.xlsx - full dataset of 515345 songs x 91 attributes in Excel format
+
+Using datamanipulation.m procedures on above results in:
+
+YearPredictionMSDTest.xlsx - 2000 x 13 cells containing 13 attributes for all test set examples 
+
+YearPredictionMSDTrain.xlsx - 8000 x 13 cells containing 13 attributes for all training set examples
+
+YearPredictionMSDFullSubset.xlsx - 10000 x 13 cells concatenating YearPredictionTest.xlsx and YearPredictionTrain.xlsx contents 
